@@ -1,4 +1,4 @@
-# Loading Data in SvelteKit
+# Form Acttions in SvelteKit
 
 Source code used in the [Form Actions in SvelteKit](https://www.youtube.com/watch?v=52nXUwQWeKI) video on my YouTube channel.
 
